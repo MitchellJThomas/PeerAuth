@@ -1,1 +1,1 @@
-Try it live https://mitchelljthomas.github.io/PeerAuth
+Auth for humans https://mitchelljthomas.github.io/PeerAuth
